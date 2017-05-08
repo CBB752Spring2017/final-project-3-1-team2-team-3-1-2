@@ -15,9 +15,9 @@ Table of Contents
 
 
 **Contributors**
- -Writing:
- -Coding:
- -Pipeline:
+ -Writing: Amy Zhao
+ -Coding: Hussein Mohsen
+ -Pipeline: Dingjue Ji
 
 ### Introduction:
 
