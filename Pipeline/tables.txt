@@ -1,0 +1,80 @@
+\begin{table}[ht]
+\centering
+\begin{tabular}{rlrlr}
+  \hline
+ & Cytoscape & Cy.Degree & Coding & Co.Degree \\ 
+  \hline
+4146 & P62988 & 241 & P62988 & 238 \\ 
+  4880 & P04637 &  86 & P04637 &  85 \\ 
+  4325 & P10275 &  47 & P10275 &  43 \\ 
+  4583 & P35222 &  41 & P35222 &  41 \\ 
+  4897 & P06400 &  34 & Q00653 &  37 \\ 
+  4288 & P38398 &  33 & P06400 &  34 \\ 
+  4468 & P01375 &  32 & P01375 &  32 \\ 
+  3501 & P62158 &  31 & P38398 &  31 \\ 
+  4889 & P04049 &  31 & P19387 &  30 \\ 
+  2831 & P19387 &  30 & P63208 &  30 \\ 
+   \hline
+\end{tabular}
+\caption{Top10 Nodes with highest Degrees in DIP} 
+\end{table}
+\begin{table}[ht]
+\centering
+\begin{tabular}{rlrlr}
+  \hline
+ & Cytoscape & Cy.Degree & Coding & Co.Degree \\ 
+  \hline
+2412 & Q13573 & 595 & Q13573 & 595 \\ 
+  1111 & Q99459 & 566 & Q99459 & 566 \\ 
+  2469 & O95758 & 296 & O95758 & 296 \\ 
+  38 & P04637 & 264 & P04637 & 264 \\ 
+  1275 & Q9UL18 & 242 & Q9UL18 & 242 \\ 
+  4531 & Q14197 & 234 & Q14197 & 234 \\ 
+  144 & Q9UKV8 & 203 & Q9UKV8 & 203 \\ 
+  196 & O35182 & 191 & O35182 & 191 \\ 
+  8 & P0CG48 & 179 & P0CG48 & 179 \\ 
+  884 & Q8AZK7 & 172 & Q8AZK7 & 172 \\ 
+   \hline
+\end{tabular}
+\caption{Top10 Nodes with highest Degrees in MINT} 
+\end{table}
+\begin{table}[ht]
+\centering
+\begin{tabular}{rlrlr}
+  \hline
+ & Cytoscape & Cy.Betweenness & Coding & Co.Betweenness \\ 
+  \hline
+38 & Q96EK4 & 1.00 & P62988 & 0.19 \\ 
+  122 & Q6UX40 & 1.00 & P04637 & 0.07 \\ 
+  259 & P22700 & 1.00 & P10275 & 0.04 \\ 
+  357 & P35240 & 1.00 & P07900 & 0.03 \\ 
+  516 & Q8IWT6 & 1.00 & P35222 & 0.03 \\ 
+  547 & Q5ZVS2 & 1.00 & P00533 & 0.03 \\ 
+  570 & P01583 & 1.00 & P21333 & 0.03 \\ 
+  705 & Q8IWT0 & 1.00 & P25963 & 0.02 \\ 
+  741 & Q14247 & 1.00 & P01375 & 0.02 \\ 
+  836 & O75396 & 1.00 & Q9Y4K3 & 0.02 \\ 
+   \hline
+\end{tabular}
+\caption{Top10 Nodes with highest Betweenness in DIP} 
+\end{table}
+\begin{table}[ht]
+\centering
+\begin{tabular}{rlrlr}
+  \hline
+ & Cytoscape & Cy.Betweenness & Coding & Co.Betweenness \\ 
+  \hline
+124 & Q24590 & 1.00 & Q99459 & 0.12 \\ 
+  235 & O88382 & 1.00 & P04637 & 0.07 \\ 
+  239 & P08588 & 1.00 & P0CG48 & 0.06 \\ 
+  311 & P06789 & 1.00 & O95758 & 0.06 \\ 
+  423 & H2KYN0 & 1.00 & Q13573 & 0.06 \\ 
+  1148 & Q8VD04 & 1.00 & Q14197 & 0.05 \\ 
+  1152 & P19793 & 1.00 & O35182 & 0.03 \\ 
+  1484 & P61809 & 1.00 & P31947 & 0.03 \\ 
+  1543 & O60241 & 1.00 & Q9UKV8 & 0.03 \\ 
+  1573 & P05067-4 & 1.00 & P63104 & 0.03 \\ 
+   \hline
+\end{tabular}
+\caption{Top10 Nodes with highest Betweenness in MINT} 
+\end{table}
