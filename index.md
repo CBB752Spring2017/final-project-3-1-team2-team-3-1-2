@@ -11,7 +11,7 @@ Project Title
 Table of Contents
 -----------------------
 
-Please refer to the file "Writeup_3.1.pdf" for the writeups of the following sections. 
+Please refer to the file "Writeup_3.1.pdf" for the final project report.
 
 
 
