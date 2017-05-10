@@ -173,24 +173,33 @@ Shannon, P., Markiel, A., Ozier, O., Baliga, N.S., Wang, J.T., Ramage, D., Amin,
 ![table3](table3.png)
 ![table4](table4.png)
 
+**Figure 1:** PPI Network Generated from DIP Database
 ![DIP](Pipeline/DIP.png)
 
+**Figure 2:** PPI Network Generated from MINT Database
 ![MINT](Pipeline/MINT.png)
 
-
+**Figure 3:** Degree Centrality Distribution in DIP Database Calculated by Hussein's Code
 ![dipd](Coding/dipd.png)
 
+**Figure 4:** Betweenness Centrality Distribution in DIP Database Calculated by Hussein's Code
 ![dipb](Coding/dipb.png)
 
+**Figure 5:** Degree Centrality Distribution in MINT Database Calculated by Hussein's Code
 ![mintd](Coding/mintd.png)
 
+**Figure 6:** Betweenness Centrality Distribution in MINT Database Calculated by Hussein's Code
 ![mintb](Coding/mintb.png)
 
+**Figure 7:** Degree Centrality Distribution in DIP Database Calculated by Cytoscape
 ![DIP_degrees](Pipeline/DIP_degrees.png)
 
+**Figure 8:** Betweenness Centrality Distribution in DIP Database Calculated by Cytoscape
 ![DIP_betweenness](Pipeline/DIP_betweenness.png)
 
+**Figure 9:** Degree Centrality Distribution in MINT Database Calculated by Cytoscape
 ![MINT_degrees](Pipeline/MINT_degrees.png)
 
+**Figure 10:** Betweenness Centrality Distribution in MINT Database Calculated by Cytoscape
 ![MINT_betweenness](Pipeline/MINT_betweenness.png)
 
