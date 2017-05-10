@@ -105,7 +105,11 @@ It was hard to find available online tools or algorithms to use that could condu
 
 The DIP and MINT network have been cut into six layers. Fisher's exact test was used to test the enrichment of proteins with SNP in Carl's genome in different layers. The distribution of proteins in the six hierarchical layers is visualized below in the pie graphs.
 
+
 Based on the result of Fisher's exact test ($\alpha$ = 0.05), there is no significant enrichment in any layers for the PPI network, which may indicate that proteins with SNPs are not clustered or scattered in any statistically significant patterns compared to those without SNPs. 
+
+![pvalues](pvalues.png)
+
 
 ### Writing: 
 #### Observations on Centrality Measurements
