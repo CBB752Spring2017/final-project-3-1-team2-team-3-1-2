@@ -173,7 +173,18 @@ Shannon, P., Markiel, A., Ozier, O., Baliga, N.S., Wang, J.T., Ramage, D., Amin,
 ![table3](table3.png)
 ![table4](table4.png)
 
+![DIP](Pipeline/DIP.png)
 
+![MINT](Pipeline/MINT.png)
+
+
+![dipd](Coding/dipd.png)
+
+![dipb](Coding/dipb.png)
+
+![mintd](Coding/mintd.png)
+
+![mintb](Coding/mintb.png)
 
 ![DIP_degrees](Pipeline/DIP_degrees.png)
 
