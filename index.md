@@ -174,3 +174,12 @@ Shannon, P., Markiel, A., Ozier, O., Baliga, N.S., Wang, J.T., Ramage, D., Amin,
 ![table4](table4.png)
 
 
+
+![DIP_degrees](Pipeline\DIP_degrees.png)
+
+![DIP_betweenness](Pipeline\DIP_betweenness.png)
+
+![MINT_degrees](Pipeline\MINT_degrees.png)
+
+![MINT_betweenness](Pipeline\MINT_betweenness.png)
+
