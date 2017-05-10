@@ -162,3 +162,9 @@ Shannon, P., Markiel, A., Ozier, O., Baliga, N.S., Wang, J.T., Ramage, D., Amin,
 
 ### Appendix:
 
+![table1](table1.png)
+![table2](table2.png)
+![table3](table3.png)
+![table4](table4.png)
+
+
