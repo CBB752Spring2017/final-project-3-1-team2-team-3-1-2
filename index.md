@@ -19,13 +19,6 @@ Table of Contents
 7. [Appendix](#appendix)
 
 
-
-
-**Contributors**
- -Writing: Amy Zhao
- -Coding: Hussein Mohsen
- -Pipeline: Dingjue Ji
-
 ### Introduction:
 #### Project Summary
 Human protein-protein interaction (PPI) networks provide valuable insight into the functionality of proteins beyond what is detailed in the human proteome. 
