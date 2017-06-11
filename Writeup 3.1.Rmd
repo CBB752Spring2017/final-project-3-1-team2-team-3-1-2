@@ -1,7 +1,6 @@
 ---
 title: "MCDB 452 Project 3.1 Writeup"
 subtitle: "Network Analysis of the Human Protein-Protein Interactome"
-author: "Dingjue Ji, Hussein Mohsen, Amy Zhao"
 date: May 9, 2017
 output: 
   pdf_document:
@@ -30,9 +29,6 @@ Human protein-protein interaction (PPI) networks provide valuable insight into t
 In this project, we hope to visualize the structure of the human PPI network - which was obtained from two different databases - as well as determine the distribution of the degree and betweenness centrality measurements for the proteins within said network, using both our own proposed tool as well as the bioinformatics software Cytoscape. Furthermore, we would like to characterize any statistically significant differences between the proteins containing and not containing SNPs in Carl's genome. Finally, we also perform a hierarchical analysis of the PPI network.
 
 For project 3.1, protein-protein interaction (PPI) data were downloaded from two different databases: The Database of Interacting Proteins (DIP) and the Molecular Interaction Database (MINT). We filtered the edges where one or two of the proteins did not have the UniProtID, which constituted less than 5% of the total proteins of interest. The former database generated 4904 distinct proteins with 7,387 interactions, while the latter yielded 4584 distinct proteins with 12,655 interactions. 
-
-##Project Section Assignments
-For this project, Hussein, Dingjue, and Amy worked on the coding, pipeline, and writing assignments, respectively. 
 
 
 #Coding Assignment
